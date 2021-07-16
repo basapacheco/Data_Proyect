@@ -1,0 +1,33 @@
+Objetivo: Hacerlo atractivo para el portfolio
+
+El título es lo que has de buscar en el código del enlace para adaptarlo
+ 
+-Analisis descriptivo
+Frecuencias y contabilidades: https://www.kaggle.com/jyotsnasweedle/netflix-show-analysis            
+Apartado explicativo que significa cada ratio. Ej, TV-7 = programa para mayores de 7, etc. según la bbd creo haber visto que aparece
+Frecuencia de ratio de pelicula +18, +7, etc
+esa es la parte descrptiva, la dificultad del proyecto será un tem de clases para recoemndación, es decir, opoder escoger generos, actores, directores etc y que deuelva una pelicula o seria
+
+Heat Map for the DataFrame created above: Mapeo de repeticiones de valoraciones
+Rating frequency overall: ratios de edad
+ 
+Gráficos de países:
+https://www.kaggle.com/nishanthkv/netflix-shows-analysis
+ 
+Inflación de películas: https://www.kaggle.com/lily1917/disney-release-eda
+Apartado: #TOP 10 GROSSING FILM
+ 
+Funciones de Select: https://www.kaggle.com/taylorpolynomial/eda-disney-releases
+Uso general de todos los apartados
+ 
+Top idiomas. https://www.kaggle.com/murilopinheiro/netflix-primevideo-disney-and-hulu-comparison
+Apartado: Which languages are mostly represented in the streaming service of our dataset
+ 
+Top géneros: https://www.kaggle.com/murilopinheiro/netflix-primevideo-disney-and-hulu-comparison
+Apartado: Is there a specific genre that is more present?
+
+
+Notas:
+
+- Crear un git ignore de las bbdd para que no se suban
+- Crear un git ignore de este txt para que no se suba
