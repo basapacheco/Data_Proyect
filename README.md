@@ -1,7 +1,5 @@
 # Data_Proyect : ESTUDIO DEL GENERO CINEMATOGRAFICO
 
-![plataformas](https://user-images.githubusercontent.com/71724254/116782262-53045880-aa88-11eb-9e58-44c275e46b33.png)
-
 
 
 El proyecto presentado es un estudio de la evolución del genero cinematográfico centrandosé en la producción. El estudio refleja la evolución de la industria cine en distintos países y como ha ido evolucionando hasta la actualidad.
